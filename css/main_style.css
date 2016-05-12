@@ -411,31 +411,6 @@ td.loginRow {
 	font-size: 2em;
 }
 
-
-/** LOGIN CSS **/
-.form-signin {
-	max-width: 300px;
-	padding: 19px 29px 29px;
-	margin: 0 auto 20px;
+.github-box {
+	margin-top: 15px;
 }
-.form-signin-container {
-	max-width: 350px;
-	margin: 0 auto 0px;
-}
-.form-signin-header{
-	max-width: 350px;
-	margin: 0 auto 0px;
-	height:80px;
-}
-.form-signin .form-signin-heading, 
-.form-signin .checkbox {
-	margin-bottom: 10px;
-}
-.form-signin input[type="text"],
-.form-signin input[type="password"] {
-	font-size: 16px;
-	height: auto;
-	margin-bottom: 15px;
-	padding: 7px 9px;
-}
-/** END LOGIN CSS**/
