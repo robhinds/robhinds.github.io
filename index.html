@@ -93,7 +93,7 @@
 										<th><a style="cursor: pointer;">Start Date</a></th>
 										<th><a style="cursor: pointer;">End Date</a></th>
 										<th><a style="cursor: pointer;">Company</a></th>
-										<th><a style="cursor: pointer;">Role</a></th>
+										<th><a class="hidden-sm" style="cursor: pointer;">Role</a></th>
 									</tr>
 								</thead>
 								<tbody>
@@ -102,7 +102,7 @@
 										<td>2012</td>
 										<td>Ongoing</td>
 										<td>Covestor</td>
-										<td>
+										<td class="hidden-sm" >
 											Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/>
 											I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
 										</td>
@@ -112,7 +112,7 @@
 										<td>2005</td>
 										<td>2012</td>
 										<td>Accenture</td>
-										<td>A range of functional and technical roles, primarily working on client sites in Financial Services.</td>
+										<td class="hidden-sm" >A range of functional and technical roles, primarily working on client sites in Financial Services.</td>
 									</tr>
 								</tbody>
 							</table>
@@ -134,7 +134,7 @@
 										<th><a style="cursor: pointer;">Certification</a></th>
 										<th><a style="cursor: pointer;">Subject</a></th>
 										<th><a style="cursor: pointer;">Date Completed</a></th>
-										<th><a style="cursor: pointer;">School/University</a></th>
+										<th><a class="hidden-sm"  style="cursor: pointer;">University</a></th>
 									</tr>
 								</thead>
 								<tbody>
@@ -142,7 +142,7 @@
 										<td>Bachelor of Science (B.Sc.)</td>
 										<td>Artificial Intelligence and Computer Science</td>
 										<td>2003</td>
-										<td>University of Birmingham</td>
+										<td class="hidden-sm" >University of Birmingham</td>
 									</tr>
 								</tbody>
 							</table>
@@ -158,20 +158,28 @@
 					</div>
 					<div class="content-rounded-panel">
 						<div id="courseraPanel">
-							<table class="table table-striped table-hover table-condensed">
-								<tbody id="courseraCourses">
-									<tr>
-										<td><img src="https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png"></td>
-										<td><a target='_blank' href="https://www.coursera.org/course/progfun">Functional Programming Principles in Scala</a></td>
-										<td>September 16, 2013</td>
-									</tr>
-									<tr>
-										<td><img src="https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png"></td>
-										<td><a target='_blank' href="https://www.coursera.org/course/progfun">Algorithms: Design and Analysis, Part 1</a></td>
-										<td>April 28, 2014</td>
-									</tr>
-								</tbody>
-							</table>
+							<div class="row">
+								<div class="col-sm-5">
+									<img src="https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png">
+								</div>
+								<div class="col-sm-6">
+									<a target='_blank' href="https://www.coursera.org/course/progfun">
+										Functional Programming Principles in Scala
+									</a><br/>
+									<i>September 16, 2013</i>
+								</div>
+							</div><br/>
+							<div class="row">
+								<div class="col-sm-5">
+									<img src="https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png">
+								</div>
+								<div class="col-sm-6">
+									<a target='_blank' href="https://www.coursera.org/course/progfun">
+										Algorithms: Design and Analysis, Part 1
+									</a><br/>
+									<i>April 28, 2014</i>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -184,31 +192,39 @@
 					<div class="content-rounded-panel" style="overflow: hidden;">
 						<div id="githubProjectPanel">
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-lg-6">
 									<div class="github-widget" data-repo="robhinds/twitter-sentiment-analysis"></div>
 								</div>
-								<div class="col-md-6">
+								<div class="col-lg-6">
 									<div class="github-widget" data-repo="robhinds/spring-reactor-twitter"></div>
 								</div>
-								<div class="col-md-6">
+							</div>
+							<div class="row">
+								<div class="col-lg-6">
 									<div class="github-widget" data-repo="robhinds/microservices"></div>
 								</div>
-								<div class="col-md-6">
+								<div class="col-lg-6">
 									<div class="github-widget" data-repo="robhinds/spring-social-geeklist"></div>
 								</div>
-								<div class="col-md-6">
+							</div>
+							<div class="row">
+								<div class="col-lg-6">
 									<div class="github-widget" data-repo="robhinds/spring-social-stackoverflow"></div>
 								</div>
-								<div class="col-md-6">
+								<div class="col-lg-6">
 									<div class="github-widget" data-repo="robhinds/SpringMongoIntegrationExample"></div>
 								</div>
-								<div class="col-md-6">
+							</div>
+							<div class="row">
+								<div class="col-lg-6">
 									<div class="github-widget" data-repo="robhinds/SpringNeo4JWebApp"></div>
 								</div>
-								<div class="col-md-6">
+								<div class="col-lg-6">
 									<div class="github-widget" data-repo="robhinds/AndroidChuckQuiz"></div>
 								</div>
-								<div class="col-md-6">
+							</div>
+							<div class="row">
+								<div class="col-lg-6">
 									<div class="github-widget" data-repo="robhinds/AndroidRssReader"></div>
 								</div>
 							</div>
@@ -303,7 +319,7 @@
 
 		<footer>
 			<hr size="3">
-			<p>t: <a target='_blank' href="https://twitter.com/rob_hinds">@rob_hinds</a></p>
+			<p><a target='_blank' href="https://twitter.com/rob_hinds">@rob_hinds</a></p>
 			<p>London, UK</p>
 			<br>
 		</footer>
