@@ -414,9 +414,3 @@ td.loginRow {
 .github-box {
 	margin-top: 15px;
 }
-.github-box-content .description span{
-  width: 150px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
