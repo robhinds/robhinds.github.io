@@ -1,4 +1,4 @@
-# robhinds.github.io
+# Online Developer CV Generator
 A Jekyll based CV page generator based on the user profile page on Nerdability.
 
 You can checkout the page generated for this repo here: http://robhinds.github.io
