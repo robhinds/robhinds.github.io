@@ -1,0 +1,16 @@
+{% if site.stackoverflow %}
+	<div class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1>StackOverflow Flair</h1>
+		</div>
+		<div class="content-rounded-panel">
+			<div id="stackScore">
+				<a target='_blank' href="{{site.stackoverflow.profileurl}}">
+					<img src="{{site.stackoverflow.flairimageurl}}" width="208" height="58" 
+						alt="profile at Stack Overflow, Q&amp;A for professional and enthusiast programmers" 
+						title="profile at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+				</a>
+			</div>
+		</div>
+	</div>
+{% endif %}

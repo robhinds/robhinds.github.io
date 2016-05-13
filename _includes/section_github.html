@@ -1,0 +1,26 @@
+{% if site.github %}
+	<div class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1>Some projects I am Working On</h1>
+		</div>
+		<div class="content-rounded-panel" style="overflow: hidden;">
+			<div>
+				{% for project in site.github %}
+					{% assign loopindex = forloop.index | modulo: 2 %}
+					{% if loopindex == 1 %}
+					<div class="row">
+					{% endif %}
+						<div class="col-lg-6">
+							<div class="github-widget" data-repo="{{project}}"></div>
+						</div>
+					{% if loopindex == 0 %}
+					</div>
+					{% endif %}
+				{% endfor %}
+				{% if loopindex == 1 %}
+					</div>
+				{% endif %}
+			</div>
+		</div>
+	</div>
+{% endif %}

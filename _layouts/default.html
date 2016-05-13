@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+	<body>
+		{% include header.html %}
+		<div class="container">
+			{{ content }}
+			{% include footer.html %}
+		</div>
+		{% include jsimports.html %}
+	</body>
+</html>
