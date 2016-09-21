@@ -38,8 +38,13 @@ blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
 #Work experience is required
 roles:
  - title: Senior Engineer
-   start: 2012
+   start: 2016
    end: Ongoing
+   employer: Emerald Street Ventures
+   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques: Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+ - title: Senior Engineer
+   start: 2012
+   end: 2016
    employer: Covestor
    description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
  - title: Associate Manager
