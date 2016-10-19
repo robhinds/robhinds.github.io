@@ -49,7 +49,7 @@
 
 		for (var vendor in vendors){
 			$.ajax({
-				url: 'https://api.github.com/users/' + vendor + '/repos',
+				url: 'https://api.github.com/users/' + vendor + '/repos?per_page=100',
 				dataType: 'jsonp',
 				cache: true,
 				success: function(results) {
