@@ -75,11 +75,14 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - robhinds/learning-neural-networks
+ - robhinds/akka-http-rest-api-sample
  - robhinds/twitter-sentiment-analysis
  - robhinds/spring-reactor-twitter
  - robhinds/microservices
  - robhinds/spring-social-geeklist
  - robhinds/spring-social-stackoverflow
+ - robhinds/food2vec
  - robhinds/SpringMongoIntegrationExample
  - robhinds/SpringNeo4JWebApp
  - robhinds/AndroidChuckQuiz
