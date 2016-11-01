@@ -7,7 +7,7 @@ name: Andres Torres
 markdown: kramdown
 
 #User specific content
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+#Intro info freetext section at the beginning of the page - can be text or HTML
 introInfo: |
    Senior Developer with several years of experience  and proven track record of success in building and shipping complex custom-made software solutions.<br/><br/>
    With an extensive experience building software solutions from the ground working with Java technologies like J2EE, Camel, Mule, Spring, Struts, Hibernate, Web Services, SOAP, Rest and Git among others for banks, governments and large corporations.
