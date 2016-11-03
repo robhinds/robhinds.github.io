@@ -1,10 +1,9 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Kamel CHATTI 
+name: Kamel CHATTI 
 
 # Build settings
-markdown: kramdown
+markdown: Test
 
 #User specific content
 #Links that will appear in the navbar
