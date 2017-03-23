@@ -4,6 +4,17 @@
 {% if site.blogfeed %}
 	<script  type="text/javascript">
 	(function() {
+		
+		$.get("{{site.blogfeed}}", function (data) {
+			$(data).find("entry").each(function () { // or "item" or whatever suits your feed
+        			var el = $(this);
+        			console.log("------------------------");
+        			console.log("title      : " + el.find("link").text());
+        			console.log("author     : " + el.find("title").text());
+    			});
+		});
+		
+		
 		$.ajax({
 			url      : 'http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=10&callback=?&q=' + encodeURIComponent("{{site.blogfeed}}"),
 			dataType : 'json',
