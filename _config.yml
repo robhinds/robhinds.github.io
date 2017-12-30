@@ -27,6 +27,7 @@ skills:
  - Maven
  - Java
  - JPA
+ - Hibernate
  - SQL
  - REST
  - Tech Architecture
@@ -36,11 +37,11 @@ blogfeed:
 
 #Work experience is required
 roles:
- - title: Senior Engineer
-   start: 2016
+ - title: Application Manager
+   start: October 2017
    end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   employer: Bnp Personal Finance
+   description: Maintaining and reducing technical debt of Coflux system which used to control structure's files and contents using many frameworks Spring MVC, Spring Batch, QueryDsl ...
  - title: Senior Engineer
    start: 2012
    end: 2016
