@@ -14,7 +14,7 @@ primarylinks:
  - title: GitHub
    url: https://github.com/arjunbm13
  - title: StackOverflow
-   url: https://stackoverflow.com/users/3282775/user3282775
+   url: https://stackoverflow.com/users/3282775/armate
  - title: DZone
    url: https://dzone.com
  - title: LinkedIn
@@ -23,9 +23,12 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Java
+ - Python
  - Selenium
  - Appium
  - SQL
+ - QTP
+ - Katalon
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: http://armatethetechmate.blogspot.com/feeds/posts/default?alt=rss
@@ -35,17 +38,17 @@ roles:
  - title: Senior QA Engineer
    start: 2016
    end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
+   employer: Photon Infotech
+   description: Photon is the world’s largest and fastest growing provider of omnichannel and digital experiences. Photon works with over 37% of the Fortune 100 as their digital innovation partner of choice and has the largest digital consumer footprint with over 250mn daily consumer touchpoints. Photon has the largest pool of omnichannel engineers with over 3,800 engineers across offices in the US, Canada, Europe, Mauritius, India, Shanghai, and Indonesia.
+ - title: Senior Software Testing Engineer
+   start: 2013
    end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
+   employer: IBS Software Services
+   description: IBS is a leading global provider of new generation IT solutions to the Travel, Transportation and Logistics industries. A specialist in the domain, IBS offers a range of products and services that manage mission critical operations of airlines, airports, cruise lines, hospitality partners, tour operators and oil & gas companies that help them increase safety, maximize efficiency, improve revenue, manage growth and reduce costs.
+ - title: Software Testing Engineer - 2.
+   start: 2011
+   end: 2013
+   employer: Sobha Developers Ltd
    description: A range of functional and technical roles, primarily working on client sites in Financial Services.
 
 #Education is required
@@ -53,40 +56,38 @@ education:
  - level: Bachelor of Engineering
    date: 2010
    subject: Computer Science
-   school: Vishveshwaray technological University
+   school: Visvesvaraya Technological University
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: https://www.coursera.org/user/4e2b22947bf1b1fdff4f6cdf952146a3
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    - title: CODAPPS: Coding mobile apps for entrepreneurs
+      link: https://www.coursera.org/learn/codapps/home/welcome
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/21/f217c0f72611e584c3811f5720953a/Capture-d__cran-2016-03-31-_-11.51.11.png?auto=format%2Ccompress&dpr=1&w=56px&h=56px&auto=format%2Ccompress&dpr=1&w=&h=
+      date: Nov 15 2016
+
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+ - arjunbm13/awesome-test-automation
+ - arjunbm13/testingconferences.github.io
+ - arjunbm13/awesome-appium
+ - arjunbm13/awesome-java
+ - arjunbm13/List_Of_Free_MOOC
+ - arjunbm13/awesome-github
+ - arjunbm13/awesome
+ - arjunbm13/awesome-selenium
+ - arjunbm13/awesome-courses
+ - arjunbm13/awesome-bitcoin
+ - arjunbm13/MOOC
+ - arjunbm13/javaForTestersCode
+ - arjunbm13/free-software-testing-books
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+   profileurl: https://stackoverflow.com/users/3282775/armate
+   flairimageurl: https://stackoverflow.com/users/flair/3282775.png
 
 #Mobile apps section is optional
 apps:
@@ -97,9 +98,5 @@ apps:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   Over 7+ years of testing experience in ERP, Web, Service and Mobile Applications with deep understanding of Manual(Lead QA) and Automation testing Experience.
+   I'm a Test Automation and Quality Assurance Engineer at Photon Infotech. I specialize in creating software test automation solutions for a variety of web and native applications (IOS, Android, Windows), using open source tools and frameworks (e.g. selenium, appium, mocha, phantomJS). I have solid experience in a few mainstream programming languages... Java, Javascript, Python (not so mainstream, but cool IMHO) but I am a fast learner who thinks about the big picture. I'm also well versed in the CI/CD process ( github/bitbucket, jenkins) with respect to Enterprise and Cloud (Azure/AWS) hosted infrastructures. I'm currently learning how to build and test ReactJS/Native apps on the node platform. I am an avid promoter of innovation and best practices in the software engineering and testing field. I am a tech guy from Bangalore, India, interested in all technology, not just code. I like to spend my time thinking about and working on interesting ideas, meeting interesting people and contributing to projects I care about.
