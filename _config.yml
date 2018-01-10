@@ -62,7 +62,7 @@ education:
 coursera:
    profileurl: https://www.coursera.org/user/4e2b22947bf1b1fdff4f6cdf952146a3
    courses:
-  - title: CODAPPS: Coding mobile apps for entrepreneurs
+    - title: CODAPPS: Coding mobile apps for entrepreneurs
       link: https://www.coursera.org/learn/codapps/home/welcome
       optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/21/f217c0f72611e584c3811f5720953a/Capture-d__cran-2016-03-31-_-11.51.11.png?auto=format%2Ccompress&dpr=1&w=56px&h=56px&auto=format%2Ccompress&dpr=1&w=&h=
       date: Nov 15 2016
