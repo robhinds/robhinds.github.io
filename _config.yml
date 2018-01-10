@@ -62,9 +62,9 @@ education:
 coursera:
    profileurl: https://www.coursera.org/user/4e2b22947bf1b1fdff4f6cdf952146a3
    courses:
-    - title: CODAPPS: Coding mobile apps for entrepreneurs
-      link: https://www.coursera.org/learn/codapps/home/welcome
-      date: Nov 15 2016
+     - title: CODAPPS: Coding mobile apps for entrepreneurs
+       link: https://www.coursera.org/learn/codapps/home/welcome
+       date: Nov 15 2016
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -86,13 +86,6 @@ github:
 stackoverflow:
    profileurl: https://stackoverflow.com/users/3282775/armate
    flairimageurl: https://stackoverflow.com/users/flair/3282775.png
-
-#Mobile apps section is optional
-apps:
- - name: Chuck the Quiz
-   platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
