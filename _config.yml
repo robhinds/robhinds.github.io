@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Arjun B M
+twitter_username: arjunarmate
+name: Arjun B M
 
 # Build settings
 markdown: kramdown
@@ -10,34 +10,29 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: http://armatethetechmate.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/arjunbm13
  - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
+   url: https://stackoverflow.com/users/3282775/user3282775
  - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://dzone.com
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/armate/
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
- - Spring MVC
- - Spring Boot
- - Gradle
  - Java
- - JPA
+ - Selenium
+ - Appium
  - SQL
- - REST
- - Tech Architecture
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
+blogfeed: http://armatethetechmate.blogspot.com/feeds/posts/default?alt=rss
 
 #Work experience is required
 roles:
- - title: Senior Engineer
+ - title: Senior QA Engineer
    start: 2016
    end: Ongoing
    employer: Emerald Street Ventures
@@ -55,10 +50,10 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Bachelor of Engineering
+   date: 2010
+   subject: Computer Science
+   school: Vishveshwaray technological University
 
 #This section is optional (as is the image link below)
 coursera:
