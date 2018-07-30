@@ -33,12 +33,12 @@ roles:
  - title: Graduate student
    start: 2017
    end: expected to graduate in 2023
-   employer: The Penn State University
-   description: A second-year PhD student in the area of Clinical Psychology and a research assistant at PSU. 
+   employer: XX
+   description: A second-year PhD student in the area of Clinical Psychology and a research assistant at XX. 
  - title: Graduate student
    start: 2014
    end: 2017
-   employer: SDSU
+   employer: XX
    description: ... <br/> ...
 
 #Education is required
@@ -46,7 +46,7 @@ education:
  - level: Master of Arts (MA)
    date: 2017
    subject: Psychology
-   school: SDSU
+   school: XX
 
 #This section is optional (as is the image link below)
 coursera:
@@ -62,7 +62,7 @@ stackoverflow:
    flairimageurl: n
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
+additionalinfo (original info. from the developer Robhinds): |
    <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
    <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
