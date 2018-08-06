@@ -20,7 +20,7 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Matlab (I love it) <br/>
+ -  Matlab  <br/>
  - R  <br/>
  - STATA   <br/>
  - SPSS   <br/>
@@ -33,13 +33,18 @@ roles:
  - title: Graduate student
    start: 2017
    end: expected to graduate in 2023
-   employer: XX
-   description: A second-year PhD student in the area of Clinical Psychology and a research assistant at XX. 
+   employer: The Penn State University
+   description: Contextual influences on reward processing in addiction. 
  - title: Graduate student
    start: 2014
    end: 2017
-   employer: XX
-   description: ... <br/> ...
+   employer: San Diego State University
+   description: Neural correlates of cognitive and affective functions in binge drinkers.
+ - title: Undergraduate student
+   start: 2008
+   end: 2012
+   employer: Peking University
+   description: The modulating effects of group membership on empathic neural responses
 
 #Education is required
 education:
