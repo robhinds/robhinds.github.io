@@ -20,9 +20,9 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
-- Matlab  <br/> 
-- R  <br/>
-- STATA   <br/>
+- Matlab  <br/><br/> 
+- R  <br/><br/>
+- STATA   <br/><br/>
 - SPSS   <br/>
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
