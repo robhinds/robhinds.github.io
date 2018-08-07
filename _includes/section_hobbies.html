@@ -1,0 +1,12 @@
+<div id="hobbiesBubble" class="round_panel txt_lightgrey">
+    <div class="top-rounded-panel grey-bg">
+          <h1 id="user-hobbies">Hobbies</h1>
+    </div>
+    <div class="content-rounded-panel1">
+          <div id="hobbies">
+               {% for hobby in site.hobbies %}
+                    {span class="label">{{hobby}} </span> &nbsp;
+               {% endfor %}
+          </div>
+   </div>
+</div>
