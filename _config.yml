@@ -54,12 +54,14 @@ education:
    school: XX
 
 #This section is optional (as is the image link below)
-coursera:
-   n
+#coursera:
 
-#List of interesting Github repo/projects to include - optional
-github:
- - n
+
+# Hobbies
+hobbies:
+- Running
+- Reading
+- Writing novels
 
 #Stackoverflow flair is optional
 stackoverflow:
