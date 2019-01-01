@@ -57,7 +57,7 @@ roles:
    start: 2012
    end: 2016
    employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, working closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
+   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
  - title: Associate Manager
    start: 2005
    end: 2012
@@ -83,6 +83,18 @@ coursera:
       link: https://www.coursera.org/course/progfun
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
       date: April 28, 2014
+
+#This section is optional - embeds slideshows from speakerdeck
+# to get the speakerdeck ID copy the embed code and look for the data-it attribute
+speakerdeck:
+   profileurl: https://speakerdeck.com/robhinds
+   talks:
+    - title: Agile Machine Learning - from Theory to Production
+      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+      conference: W-JAX Conference, Munich 2017 (London 2017)
+    - title: Product Management for Engineers
+      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+      conference: API Conference, Berlin 2018
 
 #List of interesting Github repo/projects to include - optional
 github:
