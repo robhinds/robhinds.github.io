@@ -19,19 +19,14 @@
 
 /** skills labels  **/
 .label-padded {
-	padding: 5px; 
+	padding: 5px;
+	line-height: 28px;
 }
 .label-info, .badge-info {
 	background-color: #005985;
 	text-shadow:none;
 	font-weight: normal;
-	
-}
-.label {
-	padding: 1px 4px 2px;
-	-webkit-border-radius: 0px;
-	-moz-border-radius: 0px;
-	border-radius: 0px;
+
 }
 
 /** Flat Buttons **/

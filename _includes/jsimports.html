@@ -1,17 +1,19 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.0/js/bootstrap.min.js"></script>
 <script type="text/javascript" async="" src="./js/jquery.githubRepoWidget.custom.js"></script>
 
 {% if site.blogfeed %}
 	<script  type="text/javascript">
 	(function() {
-		
+
 		$.get("{{site.blogfeed}}", function (data) {
-			$(data).find("entry").each(function () { // or "item" or whatever suits your feed
-        			var el = $(this);
-        			console.log("------------------------");
-        			console.log("title      : " + el.find("link").text());
-        			console.log("author     : " + el.find("title").text());
-    			});
+			console.log("here..");
+			console.log(data);
+			$.each(data.feed.entry.slice(0,10), function (i, el) {
+				var link = el.link.filter(function(o) { return o.rel == 'alternate' }).pop().href;
+				var title = el.title.$t
+					$('#blogArticles').append("<a target='_blank' href='" + link + "'>" + title + "</a><br><br>")
+			});
 		},
      		"jsonp");
 	})();

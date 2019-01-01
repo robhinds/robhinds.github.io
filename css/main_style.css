@@ -14,13 +14,13 @@ table {
 	font-size:16px;
 }
 
-.overlay { 
-  display:none; 
-  position:absolute; 
-  background:#fff; 
+.overlay {
+  display:none;
+  position:absolute;
+  background:#fff;
 }
-.img-load { 
-  position:absolute; 
+.img-load {
+  position:absolute;
 }
 .uppercase{
 	text-transform: uppercase;
@@ -51,7 +51,7 @@ table {
 	padding-left:0px;
 	padding-right:30px;
 	display:inline;
-	position:relative; 
+	position:relative;
 	left:0px;top:20px;
 }
 
@@ -59,16 +59,16 @@ table {
 #header_container {
 	/**background-color:#1E3D5A;**/
 	background: #fff url('../images/txtDarkBground.png');
-	
+
 }
 
 #inner_div {
 	display:inline;
-	
+
 }
 
 #container {
-	margin:0 auto; 
+	margin:0 auto;
 	min-width: 1000px;
 	/*max-width:1000px;*/
 	min-height: 100%;
@@ -91,8 +91,8 @@ table {
 #footer {
 	clear: both;
 	height: 35px;
-	position: relative;	
-	margin:0 auto; 
+	position: relative;
+	margin:0 auto;
 	min-width: 1000px;
 	/*max-width:1000px;*/
 	color:white;
@@ -183,7 +183,7 @@ table {
 
 .medium_blue_faded{
 	background: #ffca40;
-	color: white; 
+	color: white;
 }
 
 .small_text_white > a{
@@ -200,7 +200,7 @@ table {
 	margin-bottom:20px;
 }
 
-img {  
+img {
 	border-style: none;
 }
 
@@ -220,9 +220,9 @@ h2 {
 }
 
 .nerdScoreHeader{
-	font-size:75px; 
+	font-size:75px;
 	text-align:center;
-	font-weight: 100; 
+	font-weight: 100;
 	line-height: normal;
 	background-color: #ff6840;
 	color: #ffd873;
@@ -232,14 +232,14 @@ h2 {
 
 .search-row > td{
 	padding-bottom: 10px;
-	padding-left:10px;  
-	padding-top:10px; 
+	padding-left:10px;
+	padding-top:10px;
 }
 .search-score{
 	font-size:25px;
-	font-style:bold; 
+	font-style:bold;
     color:#ffd873;
-	text-align:center; 
+	text-align:center;
 }
 .small_text{
 	font-size:x-small;
@@ -327,17 +327,17 @@ div.headerInline {
 }
 
 /** popup styling  **/
-.popupBackground{  
- 	display:none;  
- 	position:fixed;  
- 	_position:absolute; /* hack for internet explorer 6*/  
- 	height:100%;  
- 	width:100%;  
- 	top:0;  
-	left:0;  
-	background:#000000;  
-	border:1px solid #cecece;  
-	z-index:1;  
+.popupBackground{
+ 	display:none;
+ 	position:fixed;
+ 	_position:absolute; /* hack for internet explorer 6*/
+ 	height:100%;
+ 	width:100%;
+ 	top:0;
+	left:0;
+	background:#000000;
+	border:1px solid #cecece;
+	z-index:1;
 }
 .popupWindow{
  	display:none;
@@ -351,34 +351,34 @@ div.headerInline {
  	padding:12px;
  	font-size:13px;
  	overflow:auto;
-}  
-.popupWindow h1{  
- 	text-align:left;  
- 	color:#6FA5FD;  
- 	font-size:22px;  
- 	font-weight:700;  
- 	border-bottom:1px dotted #D3D3D3;  
- 	padding-bottom:2px;  
- 	margin-bottom:20px;  
+}
+.popupWindow h1{
+ 	text-align:left;
+ 	color:#6FA5FD;
+ 	font-size:22px;
+ 	font-weight:700;
+ 	border-bottom:1px dotted #D3D3D3;
+ 	padding-bottom:2px;
+ 	margin-bottom:20px;
 }
 .popupWindow a{
  	text-decoration: none;
-}	
+}
 
-.popupWindowClose{  
-	font-size:14px;  
- 	line-height:14px;  
- 	right:6px;  
- 	top:4px;  
- 	position:absolute;  
- 	color:#6fa5fd;  
- 	font-weight:700;  
- 	display:block;  
+.popupWindowClose{
+	font-size:14px;
+ 	line-height:14px;
+ 	right:6px;
+ 	top:4px;
+ 	position:absolute;
+ 	color:#6fa5fd;
+ 	font-weight:700;
+ 	display:block;
 }
 
 label.error { float: none; color: red; padding-left: .5em; vertical-align: top; }
 
-.sketchit { 
+.sketchit {
 	color:#999999;
 	font-weight: normal;
 	font-style: normal;
@@ -395,17 +395,17 @@ label.error { float: none; color: red; padding-left: .5em; vertical-align: top; 
 }
 
 .loginTable {
-	border-collapse:collapse; 
+	border-collapse:collapse;
 }
 td.loginRow {
 	padding:2px;
 }
 
-.small-padding {	
-	padding-bottom: 5px; 
+.small-padding {
+	padding-bottom: 5px;
 }
 .company-spacing {
-	padding-right: 15px; 
+	padding-right: 15px;
 }
 .cta-btn{
 	font-size: 2em;
