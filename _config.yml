@@ -80,7 +80,7 @@ coursera:
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
       date: September 16, 2013
     - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
+      link: https://www.coursera.org/specializations/algorithms
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
       date: April 28, 2014
 
@@ -89,12 +89,12 @@ coursera:
 speakerdeck:
    profileurl: https://speakerdeck.com/robhinds
    talks:
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: W-JAX Conference, Munich 2017 (London 2017)
     - title: Product Management for Engineers
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
       conference: API Conference, Berlin 2018
+    - title: Agile Machine Learning - from Theory to Production
+      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github:
