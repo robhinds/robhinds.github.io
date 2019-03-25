@@ -9,7 +9,7 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog1
+ - title: TechnicalBlog
    url: http://armatethetechmate.blogspot.com/
  - title: TestingBlog
    url: https://armatethetester.wordpress.com/
@@ -25,11 +25,10 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Java
- - Python
+ - Python(intermediate)
  - Selenium
  - Appium
- - SQL
- - QTP
+ - Postman/Jmeter
  - Katalon
  - RPA(UI-Path)
 
@@ -70,9 +69,21 @@ education:
 coursera:
    profileurl: https://www.coursera.org/user/4e2b22947bf1b1fdff4f6cdf952146a3
    courses:
-    - title: CODAPPS-Coding mobile apps for entrepreneurs
-      link: https://www.coursera.org/learn/codapps/home/welcome
+    - title: CODAPPS-Coding mobile apps for entrepreneurs(https://www.coursera.org/learn/codapps/home/welcome)
+      link: https://www.coursera.org/account/accomplishments/verify/TGXGVC8QY58W
       date: Nov 15 2016
+
+Google:
+   courses:
+    - title: Google Cloud onBoard - Google Cloud Platform Fundamentals: Core Infrastructure
+      link: http://www.theyounion.in/google/Google_Certificate/BLR/GC_Certificate_BLR/GC_Certificate_BLR_265.pdf
+      date: Sep 2018
+   
+Six Sigma:
+   courses:
+    - title: Six Sigma Yellow Belt(License AN BB 20101145)
+      link: https://www.anexas.net/Lean-Six-Sigma-Yellow-Belt
+      date: Feb 2010 
 
 #List of interesting Github repo/projects to include - optional
 github:
