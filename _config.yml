@@ -33,7 +33,7 @@ skills:
  - RPA(UI-Path)
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://armatethetechmate.blogspot.com/feeds/posts/default?alt=rss
+blogfeed: http://armatethetechmate.blogspot.com/feeds/posts/default??alt=json
 
 #Work experience is required
 roles:
