@@ -31,6 +31,9 @@ skills:
  - Postman/Jmeter
  - Katalon
  - RPA(UI-Path)
+ - JMeter
+ - JIRA
+ - Testlink
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: http://armatethetechmate.blogspot.com/feeds/posts/default??alt=json
@@ -46,12 +49,12 @@ roles:
    start: 2016
    end: 2018
    employer: Photon Infotech
-   description: Photon is the world’s largest and fastest growing provider of omnichannel and digital experiences. Photon works with over 37% of the Fortune 100 as their digital innovation partner of choice and has the largest digital consumer footprint with over 250mn daily consumer touchpoints. Photon has the largest pool of omnichannel engineers with over 3,800 engineers across offices in the US, Canada, Europe, Mauritius, India, Shanghai, and Indonesia.
+   description: At Photon, i worked on multiple mobile projects, mainly used appium for automation and worked on manual testing as well.
  - title: Senior Software Testing Engineer
    start: 2013
    end: 2016
    employer: IBS Software Services
-   description: IBS is a leading global provider of new generation IT solutions to the Travel, Transportation and Logistics industries. A specialist in the domain, IBS offers a range of products and services that manage mission critical operations of airlines, airports, cruise lines, hospitality partners, tour operators and oil & gas companies that help them increase safety, maximize efficiency, improve revenue, manage growth and reduce costs.
+   description: At IBS, i worked mainly on Selenium automation and manual testing, and i was part of the center of excellence where i helped many teams for automation help.
  - title: Software Testing Engineer - 2.
    start: 2011
    end: 2013
