@@ -1,1 +1,1 @@
-cv generator - 0.1
+hugo - 0.1
