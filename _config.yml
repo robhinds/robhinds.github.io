@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Carel de Jager
+twitter_username: BlockchainJag
+name: Carel de Jager
 
 # Build settings
 markdown: kramdown
@@ -18,7 +18,7 @@ primarylinks:
  - title: DZone
    url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/careldejager/
 
 #Any buzzword skills you want to include
 skills:
