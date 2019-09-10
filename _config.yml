@@ -28,14 +28,14 @@ skills:
 roles:
  - title: ...
    start: 2017
-   end: Ongoing
+   end: ...
    employer: ...
    description: ...
 
 #Education is required
 education:
 -  level: Master of Science (M.Sc.)
-   date: 2020
+   date: ongoing
    subject: Data Science
    school: University of Konstanz
  - level: Bachelor of Science (B.Sc.)
