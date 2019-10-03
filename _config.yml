@@ -9,20 +9,21 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- #- title: Blog
- #  url: http://automateddeveloper.blogspot.com/
  - title: GitHub
    url: https://github.com/sampathhennayake
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/sampath_hennayake
+ #- title: Blog
+ #  url: http://automateddeveloper.blogspot.com/
  #- title: StackOverflow
  #  url: http://stackoverflow.com/users/258813/rhinds
  #- title: DZone
  #  url: https://dzone.com/users/899489/rhinds.html
- - title: LinkedIn
-   url: https://www.linkedin.com/in/sampath_hennayake
+
 
 #Any buzzword skills you want to include
 skills:
- - Scala
+ - PL SQL, Oracle 12, Toad for Oracle, SQL Developer, Oracle BI, MySQL, MariaDB
  - Akka-http
  - Microservices
  - Slick
@@ -39,7 +40,7 @@ skills:
  - Machine learning
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
@@ -114,7 +115,7 @@ education:
  #     conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
-github:
+#github:
  #- robhinds/robhinds.github.io
  #- robhinds/ScaLambda
  #- robhinds/opinionated-akka-http
@@ -134,11 +135,11 @@ github:
 intro: |
 -	Experienced software QA Lead, Software Quality Assurance (QA) Engineer, QA Analyst, Software Tester, Automation Engineer, Performance Engineer with additional experience as a Software QA Consultant, Senior Field Application Engineer, Business Analyst, Solutions Architect, and Configurations Manager. 
 -	Strong background in software manual and automation testing, functionality and performance testing. Able to implement test plans, testing standards, and testing frameworks and monitoring for the projects.
-#-	Proven skills in providing overall technical leadership and mentorship throughout the full software development lifecycle (SDLC) and building strong international customer relationships in diverse cultures.  
-#-	Fast learner with the ability to work under tight deadlines and to adapt to variety of situations. 
-#-	Technical and non-technical business requirement analysis, solution formulation creating business requirement documents and integration documents.
-#-	Software project management and strong analytical skills.
-#-	Enhanced Reliability Status security clearance
+-	Proven skills in providing overall technical leadership and mentorship throughout the full software development lifecycle (SDLC) and building strong international customer relationships in diverse cultures.  
+-	Fast learner with the ability to work under tight deadlines and to adapt to variety of situations. 
+-	Technical and non-technical business requirement analysis, solution formulation creating business requirement documents and integration documents.
+-	Software project management and strong analytical skills.
+-	Enhanced Reliability Status security clearance
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
