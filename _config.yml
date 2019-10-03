@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Sampath Hennayake
+twitter_username: sampathennayake
+name: Sampath Hennayake
 
 # Build settings
 markdown: kramdown
@@ -9,16 +9,16 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+ #- title: Blog
+ #  url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/sampathhennayake
+ #- title: StackOverflow
+ #  url: http://stackoverflow.com/users/258813/rhinds
+ #- title: DZone
+ #  url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/sampath_hennayake
 
 #Any buzzword skills you want to include
 skills:
@@ -43,81 +43,102 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Senior Quality Assurance Analyst
+   start: 2019 September
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
-
+   employer: Fisheries and Oceans Canada 
+   description: Performed smoke testing, functional testing, integration testing, regression testing, system testing, database testing, and black box testing at various phases of development lifecycle for the Cloud based Dynamics 365 CRM and ERP web application.Developed automation framework using Katalon Studio and performance testing using Apache JMeter.
+ - title: Test Automation Engineer
+   start: 2019 June
+   end: 2019 September
+   employer: Adjutans Technologies Inc, ITO 2.0 
+   description: Developed automation framework using Cucumber BDD, Junit, Gherkin, and Java. Performed smoke testing, functional testing, integration testing, regression testing, system testing, database testing, and black box testing at various phases of development lifecycle for the Customer Requirement Management (CRM) web application.
+ - title: Lead Field Application Engineer/Software QA Lead
+   start: 2008 April
+   end: 2019 May
+   employer: Telepin Software
+   description:Played multiple roles.  Lead Test Engineer, Solution Architect, Business Analyst, Configuration Engineer, Onsite/offsite Trainer, Lead Field Application Engineer, DevOps Engineer. Analyzed requirements and implemented systems to deliver comprehensive system development life cycle solutions in FinTech domain. Provided onsite and in-house training to technical and nontechnical stakeholders. Collaborated with Solution Architects, Product Managers, Development team to develop and implement solutions while working closely with the QA team and the Field Application Engineering team. Software Test Planning, developed test strategies for highly complex and multi-faceted projects, regression testing, interoperability testing, UAT, SIT test case development and execution, and performance testing using manual and multiple test automation tools. Product end to end configuration, migration script development using SQL, XML, and Bash shell script. Extract, Transform, Load (ETL) vast quantities of data at the platform migrations between FinTech systems and databases. 
+ - title: Software QA Lead/ Software QA Consultant
+   start: 2007 February
+   end: 2007 October
+   employer: TextCentric Technologies (Pvt) Ltd 
+   description: Consulted for the Software Quality Assurance team, trained the QA team in Industry standards and methods. Implement QA Mythology, standards, best practices and procedures leaned in CSTE and CSQA certifications. Reviewed configuration files, logs, and pieces of code to complete initial debugging and locate sources of bugs. Performed extensive user interface testing in .Net, SQL Server, Windows, Mac OS
+- title: Senior Software QA Engineer
+   start: 2003 August
+   end: 2007 February
+   employer: Virtusa (Pvt.)  Limited
+   description: Contributed to multiple international software development projects. Selected for 1-year work term as a knowledge asset to start the India (Chennai) Virtusa Advanced Technological Center (ATC) to launch new functionalities of the Virtusa Chennai ATC office. Conducted automation tests, performance tests and load tests using Silk Test, LoadRunner, Selenium, QTP.
+- title: Corporate/NOC Engineer 
+   start: 2002 March
+   end: 2003 August
+   employer: Lanka Internet Services Limited
+   description: Network management-installed & maintained NT/2000/Linux/Unix/Proxy/Mail servers etc.
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
+ - level: Bachelor of Science in Engineering (B.Sc.)
+   date: 2002
+   subject: Electrical and Electronics Engineering
+   school: University of Peradeniya
+ - level: Bachelor of Information Technology (BIT)
+   date: 2002
+   subject: Information Technology -Advanced Deploma
+   school: University of Colombo
+ - level: Chartered Institute of Management Accountants (CIMA), UK  
    date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   subject: Advance Diploma in Management Accounting
+   school: (CIMA), UK 
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+#coursera:
+#   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+#   courses:
+#    - title: Functional Programming Principles in Scala
+#      link: https://www.coursera.org/course/progfun
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+#      date: September 16, 2013
+#    - title: Algorithms Design and Analysis, Part 1
+#      link: https://www.coursera.org/specializations/algorithms
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+#      date: April 28, 2014
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
+#speakerdeck:
+ #  profileurl: https://speakerdeck.com/robhinds
+ #  talks:
+ #   - title: Product Management for Engineers
+ #     speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+ #     conference: API Conference, Berlin 2018
+ #   - title: Agile Machine Learning - from Theory to Production
+ #     speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+ #     conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+ #- robhinds/robhinds.github.io
+ #- robhinds/ScaLambda
+ #- robhinds/opinionated-akka-http
+ #- robhinds/food2vec
+ #- robhinds/microservices
+ #- robhinds/spring-social-geeklist
+ #- robhinds/spring-social-stackoverflow
+ #- robhinds/genotype
+ #- robhinds/footweets
+ #- robhinds/ElasticSearchGradle
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+#stackoverflow:
+ #  profileurl: http://stackoverflow.com/users/258813/rhinds
+ #  flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
+-	Experienced software QA Lead, Software Quality Assurance (QA) Engineer, QA Analyst, Software Tester, Automation Engineer, Performance Engineer with additional experience as a Software QA Consultant, Senior Field Application Engineer, Business Analyst, Solutions Architect, and Configurations Manager. 
+-	Strong background in software manual and automation testing, functionality and performance testing. Able to implement test plans, testing standards, and testing frameworks and monitoring for the projects.
+#-	Proven skills in providing overall technical leadership and mentorship throughout the full software development lifecycle (SDLC) and building strong international customer relationships in diverse cultures.  
+#-	Fast learner with the ability to work under tight deadlines and to adapt to variety of situations. 
+#-	Technical and non-technical business requirement analysis, solution formulation creating business requirement documents and integration documents.
+#-	Software project management and strong analytical skills.
+#-	Enhanced Reliability Status security clearance
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
