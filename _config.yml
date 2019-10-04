@@ -73,5 +73,53 @@ education:
    subject: Information and communication Technology
    school: Mawlana Bhashani Science and Technology University
 
+#List of interesting Github repo/projects to include - optional
+github:
+ - rizvi/rizvi.github.io
+ - rizvi/DataStructure-Algo
+ - rizvi/JavaCollectionFramework
+ - rizvi/SpringBootHibernateExample
+ - rizvi/UVA-HackerRank-Others
+ - rizvi/log4j_sift-master-second
+
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: https://stackoverflow.com/users/2293534/skywalker
+   flairimageurl: http://stackoverflow.com/users/flair/2293534.png
+
+intro: |
+I have been working for over 6+ years in Software Development, playing a variety of roles such as Senior Software Engineer, Software Engineer and Programmer. I want to be a researcher and want to work on a distributed system, parallel processing, grid computing and data mining.
+
+Nowadays, I’m working as a Software Engineer (web based application) on Java/J2EE.
+
+Personal Characteristics, Organizational Aptitudes and Abilities:
+
+-Willy to learn new technologies to improve my knowledge, self starter, energetic and resourceful, ability to work in teams, proactive person and high commitment to goals and due dates;
+
+-Been responsible for the full life cycle of projects, including requirements (write functional and technical specifications), design, technical design and implementation (major features and components from requirements), automation testing, debugging (contribute in the ongoing effort to improve software design and coding best practices), automated build and deployment (deploy high-availability services);
+
+-Strong experience with Oriented Object Design and UML (diagrams such as class, component, deployment, object, sequence);
+
+-Experience working with Agile methodologies such as SCRUM and Extreme Programming;
+
+-Strong experience in development of web application using Java/J2EE;
+
+-Good skill with java desktop application using swing;
+
+-Charts and reports using excel;
+
+-Java frameworks: Spring, Struts 1 & 2, Hibernate or JPA, jUnit, Maven, Ajax using Dojo, Display Tag, Taglibs, HTML, JavaScript and CSS;
+
+-Database: Oracle 10g, PostgreSQL and MySQL;
+
+-A long experience using case tools (DB Design);
+
+-IDE (Eclipse, Netbeans);
+
+-Web and application server (Apache, Apache Tomcat, JBoss, IBM WebSphere);
+
+-Source code management (SCM) System (Tortoise SVN, RapidSVN, Subclipse for Eclipse, CVS and Git);
+
+-Comfortable with Linux environment; 
 
 # Update: https://github.com/robhinds/robhinds.github.io/edit/master/_config.yml
