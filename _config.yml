@@ -1,5 +1,5 @@
 # Site settings
-title: Sampath 
+title: Sampath Hennayake
 twitter_username: sampathennayake
 name: Sampath Hennayake
 
@@ -75,7 +75,7 @@ roles:
    employer: Lanka Internet Services Limited
    description: Network management-installed & maintained NT/2000/Linux/Unix/Proxy/Mail servers etc.
 #Education is required
-education:
+education: 
  - level: Bachelor of Science in Engineering (B.Sc.)
    date: 2002
    subject: Electrical and Electronics Engineering
