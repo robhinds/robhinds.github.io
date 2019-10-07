@@ -1,5 +1,5 @@
 # Site settings
-title: Rob Hinds
+title: Sampath 
 twitter_username: sampathennayake
 name: Sampath Hennayake
 
@@ -115,7 +115,8 @@ education:
  #     conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
-#github:
+github: 
+ - sampathhennayake/sampathhennayake.github.io
  #- robhinds/robhinds.github.io
  #- robhinds/ScaLambda
  #- robhinds/opinionated-akka-http
