@@ -19,8 +19,9 @@
 
 /** skills labels  **/
 .label-padded {
-	padding: 5px;
-	line-height: 28px;
+	line-height: 30px;
+	margin-left: 10px;
+	display: ruby-base;
 }
 .label-info, .badge-info {
 	background-color: #005985;
