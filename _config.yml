@@ -26,9 +26,7 @@ skills:
  - SQL
  - Machine learning
  - Android Development
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
-
+ 
 #Work experience is required
 roles:
  - title: Freelance Software Developer
@@ -57,6 +55,6 @@ education:
 
 
 intro: |
-  I am an Software Engineer with 2 years experience working in technology. I have primarily worked on the Python, but have worked across a broad range of technologies thereon: Java,  Android and most recently .net. <br/><br/>
+  I am a Software Engineer with 2 years experience working in technology. I have primarily worked on the Python, but have worked across a broad range of technologies thereon: Java,  Android and most recently .net. <br/><br/>
   I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code.<br/><br/>
   
