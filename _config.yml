@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Eduardo Cordova
+twitter_username: eduardoawakens
+name: Eduardo Alfredo Cordova Mancheno
 
 # Build settings
 markdown: kramdown
@@ -41,7 +41,7 @@ skills:
  - Machine learning
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
@@ -99,17 +99,17 @@ speakerdeck:
       conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
-github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+#github:
+# - robhinds/robhinds.github.io
+# - robhinds/ScaLambda
+# - robhinds/opinionated-akka-http
+# - robhinds/food2vec
+# - robhinds/microservices
+# - robhinds/spring-social-geeklist
+# - robhinds/spring-social-stackoverflow
+# - robhinds/genotype
+# - robhinds/footweets
+# - robhinds/ElasticSearchGradle
 
 #Stackoverflow flair is optional
 stackoverflow:
