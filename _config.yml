@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Jack Rhines
+twitter_username: jackrhines_
+name: Jack Rhines
 
 # Build settings
 markdown: kramdown
@@ -9,39 +9,32 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+# - title: Blog
+#   url: https://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/jackrhines
+ #- title: StackOverflow
+ #  url: https://stackoverflow.com/users/258813/rhinds
+ #- title: DZone
+ #  url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: Food
-   url: https://www.robbishfood.com/
+   url: https://www.linkedin.com/in/john-rhines
+ #- title: Food
+ #  url: https://www.robbishfood.com/
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Technical Architecture
- - Machine learning
+ - Python
+ - Roblox / Lua
+ - Microsoft Technology Associate Certification
+ - GitHub
+ - SolidWorks
+ - AutoCAD
+ - Microsoft Office
+ - CPR / Lifeguarding
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
@@ -69,9 +62,9 @@ roles:
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   date: 20234
+   subject: Computer Science
+   school: California Polytechnic State University
 
 #This section is optional (as is the image link below)
 coursera:
