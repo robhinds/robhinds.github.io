@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Michele Orlando
+#twitter_username: rob_hinds
+name: Michele Orlando
 
 # Build settings
 markdown: kramdown
@@ -9,18 +9,18 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+# - title: Blog
+#   url: https://automateddeveloper.blogspot.com/
  - title: GitHub
    url: https://github.com/robhinds
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+# - title: StackOverflow
+#   url: https://stackoverflow.com/users/258813/rhinds
+# - title: DZone
+#   url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
    url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: Food
-   url: https://www.robbishfood.com/
+# - title: Food
+#   url: https://www.robbishfood.com/
 
 #Any buzzword skills you want to include
 skills:
@@ -41,7 +41,7 @@ skills:
  - Machine learning
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
@@ -74,47 +74,47 @@ education:
    school: University of Birmingham
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+#coursera:
+#   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+#   courses:
+#    - title: Functional Programming Principles in Scala
+#      link: https://www.coursera.org/course/progfun
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+#      date: September 16, 2013
+#    - title: Algorithms Design and Analysis, Part 1
+#      link: https://www.coursera.org/specializations/algorithms
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+#      date: April 28, 2014
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
+#speakerdeck:
+#   profileurl: https://speakerdeck.com/robhinds
+#   talks:
+#    - title: Product Management for Engineers
+#      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+#      conference: API Conference, Berlin 2018
+#    - title: Agile Machine Learning - from Theory to Production
+#      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+#     conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
-github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+#github:
+# - robhinds/robhinds.github.io
+# - robhinds/ScaLambda
+# - robhinds/opinionated-akka-http
+# - robhinds/food2vec
+# - robhinds/microservices
+# - robhinds/spring-social-geeklist
+# - robhinds/spring-social-stackoverflow
+# - robhinds/genotype
+# - robhinds/footweets
+# - robhinds/ElasticSearchGradle
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+ #stackoverflow:
+ #  profileurl: https://stackoverflow.com/users/258813/rhinds
+ #  flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
   I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
