@@ -22,7 +22,7 @@ skills:
  - SQL
  - Agile Methodologies
  - Project Management
- - Technology Opertaions
+ - Technology Operations
  - Confluence
  - JIRA
  - Java
@@ -33,9 +33,6 @@ skills:
  - Marketing
 
 
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
-
 #Work experience is required
 roles:
   - title: Operations Analyst Intern
@@ -44,9 +41,9 @@ roles:
     employer: Walmart Global Tech
     location: Bentonville, AR
     description: |
-      - Conducted real-time monitoring and analysis of dashboards for the Global Integrated Fulfillment system, reducing average time of resolution by 30%.
-      - Developed recommendations for documentation standards through JIRA for the Command and Control Center (CCC), resulting in increased documentation across 4 different projects.
-      - Onboarded Walmart GoLocal to the CCC, working with technical teams to integrate these applications into existing support systems.
+      - Conducted real-time monitoring and analysis of dashboards for the Global Integrated Fulfillment system, reducing average time of resolution by 30%. <br/><br/>
+      - Developed recommendations for documentation standards through JIRA for the Command and Control Center (CCC), resulting in increased documentation across 4 different projects. <br/><br/>
+      - Onboarded Walmart GoLocal to the CCC, working with technical teams to integrate these applications into existing support systems. <br/><br/>
 
   - title: Business Analyst Intern
     start: January 2023
@@ -54,9 +51,9 @@ roles:
     employer: American Fidelity Assurance
     location: Oklahoma City, OK
     description: |
-      - Utilized Excel and JIRA to clarify, summarize, and document 150 technical business requirements.
-      - Transferred and organized requirements from JIRA to TopTeam, maintaining thorough documentation of user interface fields.
-      - Created training materials and documented best practices for project management tools, including TopTeam.
+      - Utilized Excel and JIRA to clarify, summarize, and document 150 technical business requirements. <br/><br/>
+      - Transferred and organized requirements from JIRA to TopTeam, maintaining thorough documentation of user interface fields. <br/><br/>
+      - Created training materials and documented best practices for project management tools, including TopTeam. <br/><br/>
 
   - title: LMS Support Intern
     start: August 2022
@@ -64,7 +61,7 @@ roles:
     employer: Oklahoma Christian University
     location: Edmond, OK
     description: |
-      - Communicated technical solutions for Blackboard, the university's Learning Management System.
+      - Communicated technical solutions for Blackboard, the university's Learning Management System. <br/><br/>
       - Earned a positive helpdesk feedback rating of 97% through Zendesk.
 
   - title: Scrum Master Intern
@@ -73,10 +70,10 @@ roles:
     employer: Paycom
     location: Oklahoma City, OK
     description: |
-      - Facilitated Scrum Ceremonies and monitored JIRA boards for two 9-member teams.
-      - Restructured 90 company-wide Confluence pages to clarify training materials.
-      - Analyzed 600 impediments using Excel and recommended resolution paths.
-      - Assisted in implementing 4 new JIRA metrics for measuring Scrum team performance.
+      - Facilitated Scrum Ceremonies and monitored JIRA boards for two 9-member teams. <br/><br/>
+      - Restructured 90 company-wide Confluence pages to clarify training materials. <br/><br/>
+      - Analyzed 600 impediments using Excel and recommended resolution paths. <br/><br/>
+      - Assisted in implementing 4 new JIRA metrics for measuring Scrum team performance. <br/><br/>
       - Awarded Scrum Master Intern MVP.
 
 #Education is required
@@ -90,31 +87,21 @@ education:
 coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
+    - title: Data Analysis with Python
+      link: https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-analyst&utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_ibm-data-analyst_ibm_FTCOF_professional-certificates_country-US-country-CA&campaignid=19984826761&adgroupid=147671564346&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=655104109353&hide_mobile_promo&gclid=Cj0KCQjwm66pBhDQARIsALIR2zCc4LsCkYZaNiJfU9dfmG_ZtufvEC-gBAcyE037MF-2AZdOUEJVLGwaAqKPEALw_wcB
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+      date: October 10, 2023
+    - 
 
 
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
-
-
+ - Zfike/seivproject2-frontend
+ - Zfike/seivproject2-backend
+ - Zfike/seivproject3-backend
+ - Zfike/seivproject3-frontend
+ -
 intro: |
   I am an aspiring business analyst with a solid foundation in computer science, currently pursuing my B.S. in Computer Science with Business at Oklahoma Christian University, with an expected graduation in April 2024. My education has equipped me with a strong grasp of various programming languages, data analysis, and project management methodologies. My hands-on experience during internships has further honed my skills in real-world settings, managing technical projects, optimizing operations, and delivering solutions in both startup and corporate environments. I have a keen interest in leveraging data to drive decision-making and optimize processes. <br/><br/>
   
